@@ -1,0 +1,5 @@
+def response(text)
+z=text.upper()
+print(z)
+text=input("enter string")
+response(text)
